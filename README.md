@@ -1,4 +1,4 @@
-# TWRP Recovery for Samsung Galaxy Tab A9+ (Wi-Fi)
+# TWRP Recovery for Samsung Galaxy Tab A9+ 5G X216B
 
 The Samsung Galaxy Tab A9+ (codename **gta9pwifi**) is an 11.0″ mid-range tablet released in October 2023. This repository contains the device configuration files for building TWRP recovery.
 
@@ -22,7 +22,7 @@ The Samsung Galaxy Tab A9+ (codename **gta9pwifi**) is an 11.0″ mid-range tabl
 | **Storage** | 64GB / 128GB (Expandable via microSD) |
 | **Display** | 1920 x 1200 (90Hz TFT LCD) |
 | **Battery** | 7040 mAh |
-| **Android Version** | 13 (Shipped) |
+| **Android Version** | 15 (Shipped) |
 
 ---
 
